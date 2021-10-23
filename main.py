@@ -1,5 +1,5 @@
-#    ESPyScanner is a 
-#    Copyright (C) <year>  <name of author>
+#    ESPyScanner is a simple AP scanner using an ESP82666 and OLED screen
+#    Copyright (C) 2021  Noise Ciber Seguridad
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
